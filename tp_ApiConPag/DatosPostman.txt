@@ -1,0 +1,173 @@
+PERSONAS
+
+{
+        "nombre": "Valentina",
+        "apellido": "Pereira",
+        "dni": 4555642,
+        "domicilio": {
+            "calle": "LasTortugas",
+            "numero": 1003,
+            "localidad": {
+                "id": 1,
+                "denominacion": "Godoy Cruz"
+            }
+        },
+        "libros": [
+            {
+                "titulo": "Cien años de Soledad",
+                "fecha": 1967,
+                "genero": "Novela",
+                "paginas": 496,
+                "autores": [
+                    {
+                        "id": 1,
+                        "nombre": "Gabriel",
+                        "apellido": "Marquez",
+                        "biografia": "Gabriel José de la Concordia García Márquez ​​ fue un escritor y periodista colombiano. Reconocido principalmente por sus novelas y cuentos, también escribió narrativa de no ficción, discursos, reportajes, críticas cinematográficas y memorias."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nombre": "Julieta",
+        "apellido": "Vicente",
+        "dni": 44309541,
+        "domicilio": {
+            "calle": "PiedraBuena",
+            "numero": 1198,
+            "localidad": {
+                "id": 1,
+                "denominacion": "Godoy Cruz"
+            }
+        },
+        "libros": [
+            {
+                "titulo": "Las Mujeres y la Vocación",
+                "fecha": 1922,
+                "genero": "Novela",
+                "paginas": 204,
+                "autores": [
+                    {
+                        "id": 3,
+                        "nombre": "Delfina",
+                        "apellido": "Bunge",
+                        "biografia": "Delfina Bunge de Gálvez fue una escritora, poeta, ensayista, periodista y filántropa argentina. Junto a su marido, Manuel Gálvez, integró la lista de intelectuales que apoyaron el peronismo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nombre": "Martín",
+        "apellido": "Vicente",
+        "dni": 44505253,
+        "domicilio": {
+            "calle": "PiedraBuena",
+            "numero": 1198,
+            "localidad": {
+                "id": 3,
+                "denominacion": "Maipú"
+            }
+        },
+        "libros": [
+            {
+                "titulo": "A través de tí",
+                "fecha": 2021,
+                "genero": "Novela",
+                "paginas": 336,
+                "autores": [
+                    {
+                        "id": 2,
+                        "nombre": "Ariana",
+                        "apellido": "Godoy",
+                        "biografia": "Maestra y escritora venezolana, reside desde 2016 en Raleigh, Carolina del Norte.​ Comenzó su carrera como escritora en 2009 durante su etapa universitaria."
+                    },
+                    {
+                        "id": 3,
+                        "nombre": "Delfina",
+                        "apellido": "Bunge",
+                        "biografia": "Delfina Bunge de Gálvez fue una escritora, poeta, ensayista, periodista y filántropa argentina. Junto a su marido, Manuel Gálvez, integró la lista de intelectuales que apoyaron el peronismo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nombre": "Julieta",
+        "apellido": "Rodriguez",
+        "dni": 44309550,
+        "domicilio": {
+            "calle": "Rodriguez Peña",
+            "numero": 1020,
+            "localidad": {
+                "id": 2,
+                "denominacion": "Luján de Cuyo"
+            }
+        },
+        "libros": [
+            {
+                "titulo": "Sigue mi voz",
+                "fecha": 2022,
+                "genero": "Novela",
+                "paginas": 336,
+                "autores": [
+                    {
+                        "id": 2,
+                        "nombre": "Ariana",
+                        "apellido": "Godoy",
+                        "biografia": "Maestra y escritora venezolana, reside desde 2016 en Raleigh, Carolina del Norte.​ Comenzó su carrera como escritora en 2009 durante su etapa universitaria."
+                    }
+                ]
+            }
+        ]
+    }
+
+
+LOCALIDADES
+[
+    {
+        "id": 1,
+        "denominacion": "Godoy Cruz"
+    },
+ {
+        "id": 2,
+        "denominacion": "Luján de Cuyo"
+    },
+    {
+        "id": 3,
+        "denominacion": "Maipú"
+    }
+]
+
+
+AUTORES
+[
+    {
+
+        "nombre": "Gabriel",
+        "apellido": "Marquez",
+        "biografia": "Gabriel José de la Concordia García Márquez ​​ fue un escritor y periodista colombiano. Reconocido principalmente por sus novelas y cuentos, también escribió narrativa de no ficción, discursos, reportajes, críticas cinematográficas y memorias."
+    },
+    {
+
+        "nombre": "Ariana",
+        "apellido": "Godoy",
+        "biografia": "Maestra y escritora venezolana, reside desde 2016 en Raleigh, Carolina del Norte.​ Comenzó su carrera como escritora en 2009 durante su etapa universitaria."
+    },
+    {
+          "nombre": "Delfina",
+        "apellido": "Bunge",
+        "biografia": "Delfina Bunge de Gálvez fue una escritora, poeta, ensayista, periodista y filántropa argentina. Junto a su marido, Manuel Gálvez, integró la lista de intelectuales que apoyaron el peronismo."
+    }
+]
+
+
+
+
+
+
+
+
+
+
